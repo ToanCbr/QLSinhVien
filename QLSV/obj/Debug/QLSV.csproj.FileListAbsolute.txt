@@ -1,0 +1,12 @@
+C:\Users\phamt\Desktop\LearnC_Sharp\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\phamt\Desktop\LearnC_Sharp\QLSV\bin\Debug\QLSV.exe
+C:\Users\phamt\Desktop\LearnC_Sharp\QLSV\bin\Debug\QLSV.pdb
+C:\Users\phamt\Desktop\LearnC_Sharp\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\phamt\Desktop\LearnC_Sharp\QLSV\obj\Debug\QLSV.DangNhapFrm.resources
+C:\Users\phamt\Desktop\LearnC_Sharp\QLSV\obj\Debug\QLSV.MainFrm.resources
+C:\Users\phamt\Desktop\LearnC_Sharp\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\phamt\Desktop\LearnC_Sharp\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\phamt\Desktop\LearnC_Sharp\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\LearnC_Sharp\QLSV\obj\Debug\QLSV.exe
+C:\Users\phamt\Desktop\LearnC_Sharp\QLSV\obj\Debug\QLSV.pdb
+C:\Users\phamt\Desktop\LearnC_Sharp\QLSV\obj\Debug\QLSV.exe.config
